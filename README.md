@@ -5,3 +5,9 @@ Further, in order to better visualisation, we project LiDAR into image_2 and add
 ## Usage
 project_velo.py --gen_depth --gen_xyz --vis_proj
 
+## TODO
+project LiDAR into right image and xyz coordinate map.
+
+## visual
+<img src="save_dir/project_lidar_vis/000199.png" alt="vis" width="375" />    
+
